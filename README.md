@@ -1,4 +1,4 @@
-# Merhabalar Ben Bir Teknoloji Delisi Gencim
-## Günümüzdeki yazılımların dayatmaları sonucu özgür yazılım ile tanıştım.
+# Ömer S.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omerdynasty&theme=dark&background=000000)](https://git.io/streak-stats)
+## Tüm projelerimin lisansı
+### [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
