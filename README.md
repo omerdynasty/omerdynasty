@@ -1,6 +1,6 @@
 Ben bir açık kaynak yazılımlar ile uğraşan, kendi işlerimi kolaylaştırmak için yazdığım programları,projeleri vs. paylaşmayı seven bir Lise öğrencisiyim.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerdynasty)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerdynasty&show_icons=true&theme=radical)
 
 ---
 Projelerimde aksi belirtilmedikçe istediğiniz gibi kullanabilirsiniz, ancak atıf yaparsanız mutlu olurum :)
