@@ -1,8 +1,8 @@
 Ben bir açık kaynak yazılımlar ile uğraşan, kendi işlerimi kolaylaştırmak için yazdığım programları,projeleri vs. paylaşmayı seven bir Lise öğrencisiyim.
 
-Future projects: reADBKit, Simple GeminiPY
+### Future projects: reADBKit, Simple GeminiPY
 
-Good news: the first versions of reADBKit are out, I'll open the repository to everyone soon, and I'll do something for GeminiPY soon.
+### Good news: the first versions of reADBKit are out, I'll open the repository to everyone soon, and I'll do something for GeminiPY soon.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerdynasty&show_icons=true&theme=radical)
 
