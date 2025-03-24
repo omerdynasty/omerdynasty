@@ -1,4 +1,4 @@
-Ben bir açık kaynak yazılımlar ile uğraşan, kendi işlerimi kolaylaştırmak için yazdığım programları,projeleri vs. paylaşmayı seven bir Lise öğrencisiyim.
+Ben açık kaynak yazılımlar ile uğraşan, kendi işlerimi kolaylaştırmak için yazdığım programları,projeleri vs. paylaşmayı seven bir Lise öğrencisiyim.
 
 ### Future projects: reADBKit, Simple GeminiPY
 
