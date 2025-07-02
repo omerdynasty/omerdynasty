@@ -1,8 +1,13 @@
 ## 👋 Hey there, I'm Omer
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerdynasty&show_icons=true&theme=radical)
+
 🎯 Passionate about **learning software development**  
 🛠️ Contributing to **open source projects**  
 🤖 Playing around with **ai, python**, and **web apps**
+
+---
 
 ### 🧠 Current focus
 - Artificial intelligence experiments  
@@ -20,11 +25,16 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+---
+### 🏆 Robotics experience
+- 1x World Robot Olympiad – in Country #3 
+- 2x First Lego League – in Team Work #1 
+- Various **other national & local robotics competitions**  
+- Team-based problem solving, innovation, and engineering
+
+---
+
 
 
 Unless otherwise stated, feel free to use my code.  
 Credits are appreciated. ✌️
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerdynasty&show_icons=true&theme=radical)
