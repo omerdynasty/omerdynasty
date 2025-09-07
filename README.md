@@ -30,10 +30,8 @@
 
 ---
 ### 🏆 Robotics experience
-- 1x World Robot Olympiad – in Country #3 (1x Future exp. Slovenia Open Championship)
-- 2x First Lego League – in Team Work #1 
-- Various **other national & local robotics competitions**  
-- Team-based problem solving, innovation, and engineering
+- 2x World Robot Olmypiad #3rd and #4th places (Turkiye and Europe)
+- 2x First Lego League
 
 ---
 
