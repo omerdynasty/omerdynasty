@@ -31,7 +31,7 @@
 ---
 ### 🏆 Robotics experience
 - 2x World Robot Olmypiad #3rd and #4th places (Turkiye and Europe)
-- 2x First Lego League
+- 2x First Lego League (#1 Team Work)
 
 ---
 
