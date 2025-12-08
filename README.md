@@ -1,10 +1,5 @@
 ## 👋 Hey there, I'm Omer
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerdynasty&show_icons=true&theme=radical)
-
----
-
 🎯 Passionate about **learning software development**  
 🛠️ Contributing to **open source projects**  
 🤖 Playing around with **ai, python**, and **web apps**
