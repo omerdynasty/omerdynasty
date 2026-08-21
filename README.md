@@ -1,5 +1,7 @@
 ## 👋 Hey there, I'm Omer
 
+[LinkedIn](www.linkedin.com/in/ömer-said-güncü-8b695535a)
+
 🎯 Passionate about **learning software development**  
 🛠️ Contributing to **open source projects**  
 🤖 Playing around with **ai, python**, and **web apps**
