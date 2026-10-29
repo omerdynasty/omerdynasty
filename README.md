@@ -8,21 +8,5 @@
 
 ---
 
-### 🧠 Current focus
+## 🧠 Current focus / 🔧 Tools & Tech / 🏆 Robotics experience
 Please refer to my CV / LinkedIn
-
----
-
-### 🔧 Tools & Tech
-Please refer to my CV / LinkedIn
-
----
-### 🏆 Robotics experience
-Please refer to my CV / LinkedIn
-
----
-
-
-
-Unless otherwise stated, feel free to use my code.  
-Credits are appreciated. ✌️
