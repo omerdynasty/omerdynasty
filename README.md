@@ -1,5 +1,6 @@
 ## 👋 Hey there, I'm Omer
 
+# [My CV](https://omersaidguncu.tr)
 # [LinkedIn](https://linkedin.com/in/ömer-said-güncü-8b695535a)
 
 🎯 Passionate about **learning software development**  
